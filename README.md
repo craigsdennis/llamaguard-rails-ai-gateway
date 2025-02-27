@@ -1,7 +1,7 @@
 # Add Guardrails to your AI Applications
 
 
-[<img src="https://img.youtube.com/vi/https://youtu.be/Its1H0jTxrQ/0.jpg">](https://youtu.be/https://youtu.be/Its1H0jTxrQ "Add Guardrails to your AI Applications")
+[<img src="https://img.youtube.com/vi/Its1H0jTxrQ/0.jpg">](https://youtu.be/Its1H0jTxrQ "Add Guardrails to your AI Applications")
 
 A quick demo application that shows off the [LlamaGuard model](https://developers.cloudflare.com/workers-ai/models/llama-guard-3-8b/) on Workers AI.
 
